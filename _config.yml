@@ -1,1 +1,17 @@
 theme: jekyll-theme-hacker
+url: https://kumanidev.github.io
+
+baseurl: /jkassignment/
+title: idex page (home)
+description: this is my jekyll site by kumani riley
+
+# custom variables can be added too
+
+# site variable
+# instagram: "https://instagram.com/kumaniriley"
+# [instagram]{{site.instagram}}
+
+# page variable
+# [instagram]{{page.instagram}}
+
+author: kumani riley
